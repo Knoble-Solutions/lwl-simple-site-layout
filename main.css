@@ -1,12 +1,17 @@
 html {
     background-color: rgb(80, 192, 229);
+    border: solid 8px limegreen;
+    margin: 5%;
 }
 
 body {
-    border: solid 8px limegreen;
     padding: 0 5%;
     color: white;
 }
+
+/* section {
+    padding: 2%;
+} */
 
 header,
 footer {
@@ -40,6 +45,14 @@ a {
 a:hover {
     color: lightgreen;
     cursor: pointer;
+}
+
+img {
+    max-height: 10%;
+    width: 25%;
+    padding: 0 5% 2.5%;
+    display: inline-block;
+    float: right;
 }
 
 
