@@ -1,0 +1,45 @@
+html {
+    background-color: rgb(80, 192, 229);
+}
+
+body {
+    border: solid 8px limegreen;
+    padding: 0 5%;
+    color: white;
+}
+
+header,
+footer {
+    text-align: center;
+    padding: 5% 0%;
+    
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+header > p {
+    font-weight: bold;
+    font-weight: 800;
+}
+
+span {
+    color: black;
+}
+
+a {
+    color: darkgreen;
+}
+
+a:hover {
+    color: lightgreen;
+    cursor: pointer;
+}
+
+
